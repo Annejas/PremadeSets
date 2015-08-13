@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2014-08-09 06:54:25 --- ERROR: ReflectionException [ -1 ]: Class controller_index does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:54:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:54:36 --- ERROR: ReflectionException [ -1 ]: Class controller_login does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:54:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:55:01 --- ERROR: ReflectionException [ -1 ]: Class controller_admin does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:55:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:55:26 --- ERROR: ReflectionException [ -1 ]: Class controller_admin does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:55:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:55:40 --- ERROR: ReflectionException [ -1 ]: Class controller_ranking does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:55:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:55:52 --- ERROR: ReflectionException [ -1 ]: Class controller_ranking does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:55:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2014-08-09 06:57:06 --- ERROR: ReflectionException [ -1 ]: Class controller_ranking does not exist ~ SYSPATH\classes\kohana\request.php [ 1094 ]
+2014-08-09 06:57:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]

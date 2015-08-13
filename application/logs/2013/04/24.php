@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-04-24 09:11:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:11:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:12:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:12:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:12:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:12:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:13:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:13:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:14:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/pokemon/null.gif ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:14:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:14:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:14:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/pokemon/null.gif ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 09:15:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2013-04-24 13:02:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]

@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-05-25 01:20:38 --- ERROR: Database_Exception [ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 0' at line 1 [ SELECT * FROM pokemon_owned WHERE user_id = 2 AND box == 0 ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-05-25 01:21:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/pokemon/small/15.gif ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 01:21:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/pokemon/small/15.gif ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 01:38:14 --- ERROR: ErrorException [ 4096 ]: Argument 1 passed to Model_Area_Trainer_Pokemon::isFainted() must be an instance of String, string given, called in C:\wamp\pokebox\application\views\battle.php on line 30 and defined ~ APPPATH\classes\model\area\trainer\pokemon.php [ 57 ]
+2011-05-25 01:38:33 --- ERROR: ErrorException [ 4096 ]: Argument 1 passed to Model_Area_Trainer_Pokemon::isFainted() must be an instance of string, string given, called in C:\wamp\pokebox\application\views\battle.php on line 30 and defined ~ APPPATH\classes\model\area\trainer\pokemon.php [ 57 ]
+2011-05-25 01:38:36 --- ERROR: ErrorException [ 4096 ]: Argument 1 passed to Model_Area_Trainer_Pokemon::isFainted() must be an instance of string, string given, called in C:\wamp\pokebox\application\views\battle.php on line 30 and defined ~ APPPATH\classes\model\area\trainer\pokemon.php [ 57 ]
+2011-05-25 01:44:47 --- ERROR: ErrorException [ 2 ]: in_array() expects parameter 2 to be array, string given ~ APPPATH\classes\model\area\trainer\pokemon.php [ 59 ]
+2011-05-25 01:46:21 --- ERROR: ErrorException [ 8 ]: Undefined offset: 1 ~ APPPATH\classes\model\area\trainer\pokemon.php [ 61 ]
+2011-05-25 04:38:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 07:52:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 13:07:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 17:34:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
+2011-05-25 17:34:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 674 ]
